@@ -3,6 +3,8 @@
 SQL + Tableau analysis of 50,000 bets from ~4,000 users on the Bustabit crash-gambling platform (Oct 31 – Dec 10, 2016), built as a data analyst portfolio project.
 
 **[View the live dashboard on Tableau Public →](https://public.tableau.com/app/profile/marta.narozhnyak/viz/Bets_17893773576350/BustabitBettingAnalytics)**
+<img width="2558" height="1918" alt="image" src="https://github.com/user-attachments/assets/2b8ec5cb-b7bc-4371-8046-9e8a40b7ed83" />
+
 
 ## Dataset
 
